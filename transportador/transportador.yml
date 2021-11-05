@@ -6,6 +6,4 @@ spring:
   jpa:
     hibernate:
       ddl-auto: update
-© 2021 GitHub, Inc.
-Terms
-Privac
+
